@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nourabouali</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **n8n**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
